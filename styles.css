@@ -30,3 +30,7 @@ footer a {
     margin: 0 10px;
     text-decoration: none;
 }
+
+footer p {
+    color: #f4f4f4;
+}
